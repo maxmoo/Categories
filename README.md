@@ -8,4 +8,4 @@ category list
 使用时将所有文件导入项目，再#import "Categories.h"即可使用！
 >
 
-也可以到我的[个人博客](http://www.justonecode.com)中查看一些细节。
+也可以到[我的个人博客](http://www.justonecode.com)中查看一些细节。
